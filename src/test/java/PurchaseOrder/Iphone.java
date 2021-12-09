@@ -8,6 +8,7 @@ public class Iphone {
 		System.out.println("iphone10 is added");
 		
 		System.out.println("iphone11 is added");
+		System.out.println("iphone12 is added");
 	}
 
 }
