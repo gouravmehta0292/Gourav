@@ -14,7 +14,7 @@ public class Iphone {
 
 		System.out.println("Iphone7 Sold");
 		
-		System.out.println("iphone");
+		
 
 
 		System.out.println("abc is added");
