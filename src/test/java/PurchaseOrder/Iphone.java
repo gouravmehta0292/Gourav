@@ -11,10 +11,13 @@ public class Iphone {
 		System.out.println("iphone12 is added");
 		System.out.println("iphone 13 is added");
 		System.out.println("Gourav Mehta");
+
 		System.out.println("Iphone7 Sold");
 		
-		
+		System.out.println("iphone");
 
+
+		System.out.println("abc is added");
 	}
 
 }
