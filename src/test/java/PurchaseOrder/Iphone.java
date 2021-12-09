@@ -6,6 +6,8 @@ public class Iphone {
 	@Test
 	public void Laptop() {
 		System.out.println("iphone10 is added");
+		
+		System.out.println("iphone11 is added");
 	}
 
 }
